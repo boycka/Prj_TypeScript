@@ -1,0 +1,15 @@
+{
+  "name": "devflow",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A software project management application demonstrating advanced TypeScript, Clean Code, SOLID, and OOP.",
+  "scripts": {
+    "start": "tsx src/main.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}
